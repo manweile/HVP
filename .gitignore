@@ -18,5 +18,13 @@
 *.map
 *.srec
 
+# folders to ignore
+__vm/
+.vs/*.*
+src/
+
 #User Specific Files
 *.atsuo
+*.atsln
+*.xml
+*.cppproj
