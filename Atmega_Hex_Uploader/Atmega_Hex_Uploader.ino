@@ -56,7 +56,7 @@ const bool allowTargetToRun = true;  // if true, programming lines are freed whe
 #define USE_ETHERNET_SHIELD false  // Use the Arduino Ethernet Shield for the SD card
 
 // make true if you have spare pins for the SD card interface
-#define SD_CARD_ACTIVE true
+#define SD_CARD_ACTIVE false
 
 // make true to use the high-voltage parallel wiring
 #define HIGH_VOLTAGE_PARALLEL true
