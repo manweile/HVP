@@ -119,7 +119,9 @@ const bool allowTargetToRun = true;  // if true, programming lines are freed whe
 */
 
 // for SDFat library see: https://github.com/greiman/SdFat
-
+/*
+!Had to down grade to 1.1.4 to get successful compile!
+*/
 #include <SdFat.h>
 
 #include <avr/eeprom.h>
